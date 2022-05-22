@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1831
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "水果连连看", "水果连连看.vcxproj", "{5748E59D-3CF0-4C3A-9A7F-5925D5ED9A0F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "水果连连看小游戏", "水果连连看小游戏\水果连连看小游戏.vdproj", "{1C150899-CEAE-4619-AA1F-F564AA9A8C76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5748E59D-3CF0-4C3A-9A7F-5925D5ED9A0F}.Debug|x64.ActiveCfg = Debug|x64
+		{5748E59D-3CF0-4C3A-9A7F-5925D5ED9A0F}.Debug|x64.Build.0 = Debug|x64
+		{5748E59D-3CF0-4C3A-9A7F-5925D5ED9A0F}.Debug|x86.ActiveCfg = Debug|Win32
+		{5748E59D-3CF0-4C3A-9A7F-5925D5ED9A0F}.Debug|x86.Build.0 = Debug|Win32
+		{5748E59D-3CF0-4C3A-9A7F-5925D5ED9A0F}.Release|x64.ActiveCfg = Release|x64
+		{5748E59D-3CF0-4C3A-9A7F-5925D5ED9A0F}.Release|x64.Build.0 = Release|x64
+		{5748E59D-3CF0-4C3A-9A7F-5925D5ED9A0F}.Release|x86.ActiveCfg = Release|Win32
+		{5748E59D-3CF0-4C3A-9A7F-5925D5ED9A0F}.Release|x86.Build.0 = Release|Win32
+		{1C150899-CEAE-4619-AA1F-F564AA9A8C76}.Debug|x64.ActiveCfg = Debug
+		{1C150899-CEAE-4619-AA1F-F564AA9A8C76}.Debug|x86.ActiveCfg = Debug
+		{1C150899-CEAE-4619-AA1F-F564AA9A8C76}.Release|x64.ActiveCfg = Release
+		{1C150899-CEAE-4619-AA1F-F564AA9A8C76}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0CADC95-049F-4728-9319-A4BC580B73AB}
+	EndGlobalSection
+EndGlobal

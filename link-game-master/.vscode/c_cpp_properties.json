@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:\\All Softwares\\mingw-w64\\x86_64-8.1.0-win32-seh-rt_v6-rev0\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include\\**",
+                "D:\\Anaconda3\\Library\\include\\**",
+                "D:\\Anaconda3\\pkgs\\qt-5.9.7-vc14h73c81de_0\\Library\\include\\**",
+                "D:\\Anaconda3\\Library\\include\\qt\\QtWidgets"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.17763.0",
+            "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.16.27023/bin/Hostx64/x64/cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-msvc-x64"
+            
+        }
+    ],
+    "version": 4
+}

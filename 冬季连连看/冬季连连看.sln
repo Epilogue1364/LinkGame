@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1831
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LinkGame", "冬季连连看.vcxproj", "{CD101AFF-39B7-48E0-A4BA-A4A7643978EA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "苗苗连连看", "..\苗苗连连看\苗苗连连看.vdproj", "{9019C808-E725-42C7-A2B1-2E051E351CED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD101AFF-39B7-48E0-A4BA-A4A7643978EA}.Debug|x64.ActiveCfg = Debug|x64
+		{CD101AFF-39B7-48E0-A4BA-A4A7643978EA}.Debug|x64.Build.0 = Debug|x64
+		{CD101AFF-39B7-48E0-A4BA-A4A7643978EA}.Debug|x86.ActiveCfg = Debug|Win32
+		{CD101AFF-39B7-48E0-A4BA-A4A7643978EA}.Debug|x86.Build.0 = Debug|Win32
+		{CD101AFF-39B7-48E0-A4BA-A4A7643978EA}.Release|x64.ActiveCfg = Release|x64
+		{CD101AFF-39B7-48E0-A4BA-A4A7643978EA}.Release|x64.Build.0 = Release|x64
+		{CD101AFF-39B7-48E0-A4BA-A4A7643978EA}.Release|x86.ActiveCfg = Release|Win32
+		{CD101AFF-39B7-48E0-A4BA-A4A7643978EA}.Release|x86.Build.0 = Release|Win32
+		{9019C808-E725-42C7-A2B1-2E051E351CED}.Debug|x64.ActiveCfg = Debug
+		{9019C808-E725-42C7-A2B1-2E051E351CED}.Debug|x86.ActiveCfg = Debug
+		{9019C808-E725-42C7-A2B1-2E051E351CED}.Release|x64.ActiveCfg = Release
+		{9019C808-E725-42C7-A2B1-2E051E351CED}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAE64C6A-BA4F-4293-8982-B11DD6C464BC}
+	EndGlobalSection
+EndGlobal

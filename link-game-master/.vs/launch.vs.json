@@ -1,0 +1,22 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "native",
+      "name": "D:\\GitHub\\LinkGame\\link-game-master",
+      "project": ""
+    },
+    {
+      "type": "cppdbg",
+      "name": "D:\\GitHub\\LinkGame\\link-game-master(1)",
+      "project": "",
+      "cwd": "${workspaceRoot}",
+      "program": "${debugInfo.target}",
+      "processId": "0",
+      "MIMode": "gdb",
+      "miDebuggerPath": "${env.MINGW_PREFIX}\\bin\\gdb.exe",
+      "externalConsole": true
+    }
+  ]
+}
